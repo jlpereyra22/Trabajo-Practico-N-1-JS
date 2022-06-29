@@ -11,3 +11,4 @@ document.write("Resultado:" + (3 + 5));
 var nombre = prompt("¿Como te llamas usuario?");
 
 document.write("hola " + nombre);
+
