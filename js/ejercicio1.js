@@ -5,4 +5,8 @@ alert("un mensaje")
 document.write("<h5>Hello World</h5>");
 
 //suma de una linea
-document.write("Resultado:"+ (3+5));
+document.write("Resultado:"+ (3+5) );
+
+//prompt nombre de usuario
+alert( "hola"+ prompt("¿Como te llamas usuario?"));
+
