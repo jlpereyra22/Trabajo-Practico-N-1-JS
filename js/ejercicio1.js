@@ -8,5 +8,5 @@ document.write("<h5>Hello World</h5>");
 document.write("Resultado:"+ (3+5) );
 
 //prompt nombre de usuario
-alert( "hola"+ prompt("¿Como te llamas usuario?"));
+alert( "hola "+ prompt("¿Como te llamas usuario?"));
 
