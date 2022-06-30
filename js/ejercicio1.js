@@ -8,10 +8,10 @@ document.write("<h5>Hello World</h5>");
 document.write("Resultado:" + (3 + 5));
 
 //prompt nombre de usuario
-var nombre=prompt("¿Como te llamas usuario?");
+let nombre = prompt("¿Como te llamas usuario?");
 document.write("hola " + nombre);
 
 //suma en varias lineas
-let valor1=prompt("elija un numero");
-let valor2=prompt("elija un numero");
+let valor1 = prompt("elija un numero");
+let valor2 = prompt("elija un numero");
 document.write(parseInt(valor1) + parseInt(valor2));
